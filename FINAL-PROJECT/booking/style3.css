@@ -1,0 +1,92 @@
+ body{
+ 
+    background-color: rgb(196, 248, 246);
+  }
+  table,th,td
+    {
+      border:2px solid black;
+      width: 10%;
+      color: solid black ;
+    }
+    table
+    {
+      border-collapse:collapse;
+      width:20%;
+      text-align: center;
+    }
+    td
+    {
+      height:50px;
+    }
+    tr
+    {
+      background-color: whitesmoke;
+      color: black;
+    }
+    th
+    {
+      background-color: yellow;
+      color:rgb(17, 10, 10);
+      height:40px;
+
+    }
+    div{
+    text-align: center;
+
+}
+.muted-light-1{
+    margin-left: 1200px;
+    
+    padding-top:  20px ;
+    bottom: 20px;
+    padding-left: 10px;
+    padding:9px 2px;
+}
+.muted-light1{
+   margin-bottom: 500px;
+   padding:9px 50px;
+   
+   background: red;
+
+    padding: 10px 15px;
+
+    color: whitesmoke;
+
+    border-radius: 5px;
+
+    margin-right: 10px;
+   
+   
+
+}
+.button  a{
+	padding:9px 30px;
+  
+  margin-left: 20px;
+  float: right;
+
+    background: rgb(94, 44, 211);
+
+    padding: 10px 15px;
+
+    color: #fff;
+
+    border-radius: 5px;
+
+    margin-right: 10px;
+    margin-top: 40px;
+
+  
+
+}
+button:hover{
+
+  opacity: .7;
+  background-color: blueviolet;
+}
+.edit a{
+  color: red;
+}
+a{
+  color: blueviolet;
+}
